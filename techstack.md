@@ -90,7 +90,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [jadenblack/LibreChat](https://github.com/jadenblack/LibreChat)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|112<br/>Tools used|12/21/23 <br/>Report generated|
+|115<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -473,9 +473,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (69)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (72)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (69)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (72)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -511,6 +511,7 @@ Full tech stack [here](/techstack.md)
 |[express-session](https://www.npmjs.com/express-session)|v1.17.3|12/19/23|Danny Avila |MIT|N/A|
 |[googleapis](https://www.npmjs.com/googleapis)|v126.0.1|12/15/23|Danny Avila |Apache-2.0|N/A|
 |[handlebars](https://www.npmjs.com/handlebars)|v4.7.8|05/07/23|Dan Orlando |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v8.0.3|05/18/23|Dan Orlando |MIT|N/A|
 |[identity-obj-proxy](https://www.npmjs.com/identity-obj-proxy)|v3.0.0|09/14/23|Danny Avila |MIT|N/A|
 |[ioredis](https://www.npmjs.com/ioredis)|v5.3.2|12/15/23|Danny Avila |MIT|N/A|
 |[jest-environment-jsdom](https://www.npmjs.com/jest-environment-jsdom)|v29.7.0|10/16/23|Marco Beretta |MIT|N/A|
@@ -518,6 +519,7 @@ Full tech stack [here](/techstack.md)
 |[js-yaml](https://www.npmjs.com/js-yaml)|v3.14.1|06/10/23|Danny Avila |MIT|N/A|
 |[jsonwebtoken](https://www.npmjs.com/jsonwebtoken)|v9.0.2|10/05/23|Danny Avila |MIT|N/A|
 |[langchain](https://www.npmjs.com/langchain)|v0.0.186|12/15/23|Danny Avila |N/A|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v13.3.0|09/10/23|Danny Avila |MIT|N/A|
 |[module-alias](https://www.npmjs.com/module-alias)|v2.2.3|11/22/23|Danny Avila |MIT|N/A|
 |[multer](https://www.npmjs.com/multer)|v1.4.5|11/22/23|Danny Avila |MIT|N/A|
 |[openai](https://www.npmjs.com/openai)|v4.20.1|12/15/23|Danny Avila |N/A|N/A|
@@ -547,6 +549,7 @@ Full tech stack [here](/techstack.md)
 |[ua-parser-js](https://www.npmjs.com/ua-parser-js)|v1.0.36|09/13/23|Danny Avila |AGPL-3.0|N/A|
 |[url](https://www.npmjs.com/url)|v0.11.2|03/06/23|Danny Avila |MIT|N/A|
 |[vite](https://www.npmjs.com/vite)|v5.0.7|12/11/23|Danny Avila |N/A|N/A|
+|[winston](https://www.npmjs.com/winston)|v3.11.0|12/14/23|Danny Avila |MIT|N/A|
 |[winston-daily-rotate-file](https://www.npmjs.com/winston-daily-rotate-file)|v4.7.1|12/14/23|Danny Avila |MIT|N/A|
 
 <br/>
